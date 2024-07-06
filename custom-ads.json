@@ -14,7 +14,7 @@
         "id": 2,
         "name": "Promo Test",
         "description": "PROMO!!!!",
-        "packageId": "com.HoYoverse.Nap",
+        "packageId": "com.google.android.play.games",
         "promoText": "WoWoWo!!!",
         "iconUrl": "https://greenappdev.github.io/garbanzo/promo_icon_2.png",
         "backgroundUrl": "https://greenappdev.github.io/garbanzo/ad_promo_2.png",
