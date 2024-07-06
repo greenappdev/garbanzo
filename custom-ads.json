@@ -1,0 +1,24 @@
+[
+  {
+        "id": 1,
+        "name": "Promo Test",
+        "description": "PROMO!!!!",
+        "packageId": "com.HoYoverse.Nap",
+        "promoText": "WoWoWo!!!",
+        "iconUrl": "https://greenappdev.github.io/garbanzo/",
+        "backgroundUrl": "https://greenappdev.github.io/garbanzo/",
+        "videoUrl": "https://greenappdev.github.io/garbanzo/",
+        "priority": 2
+    },
+    {
+        "id": 1,
+        "name": "Promo Test",
+        "description": "PROMO!!!!",
+        "packageId": "com.HoYoverse.Nap",
+        "promoText": "WoWoWo!!!",
+        "iconUrl": "https://greenappdev.github.io/garbanzo/",
+        "backgroundUrl": "https://greenappdev.github.io/garbanzo/",
+        "videoUrl": "https://greenappdev.github.io/garbanzo/",
+        "priority": 1
+    }
+]
