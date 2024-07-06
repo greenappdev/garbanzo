@@ -5,20 +5,20 @@
         "description": "PROMO!!!!",
         "packageId": "com.HoYoverse.Nap",
         "promoText": "WoWoWo!!!",
-        "iconUrl": "https://greenappdev.github.io/garbanzo/",
-        "backgroundUrl": "https://greenappdev.github.io/garbanzo/",
-        "videoUrl": "https://greenappdev.github.io/garbanzo/",
+        "iconUrl": "https://greenappdev.github.io/garbanzo/promo_icon_1.png",
+        "backgroundUrl": "https://greenappdev.github.io/garbanzo/ad_promo_1.png",
+        "videoUrl": "https://greenappdev.github.io/garbanzo/ad_promo_video_1.mp4",
         "priority": 2
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Promo Test",
         "description": "PROMO!!!!",
         "packageId": "com.HoYoverse.Nap",
         "promoText": "WoWoWo!!!",
-        "iconUrl": "https://greenappdev.github.io/garbanzo/",
-        "backgroundUrl": "https://greenappdev.github.io/garbanzo/",
-        "videoUrl": "https://greenappdev.github.io/garbanzo/",
+        "iconUrl": "https://greenappdev.github.io/garbanzo/promo_icon_2.png",
+        "backgroundUrl": "https://greenappdev.github.io/garbanzo/ad_promo_2.png",
+        "videoUrl": "",
         "priority": 1
     }
 ]
