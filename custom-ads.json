@@ -9,5 +9,16 @@
         "backgroundUrl": "https://greenappdev.github.io/garbanzo/ad_promo_1.png",
         "videoUrl": "https://greenappdev.github.io/garbanzo/ad_promo_video_1.mp4",
         "priority": 2
+    },
+    {
+        "id": 2,
+        "name": "Promo Test",
+        "description": "PROMO!!!!",
+        "packageId": "com.google.android.play.games",
+        "promoText": "WoWoWo!!!",
+        "iconUrl": "https://greenappdev.github.io/garbanzo/promo_icon_2.png",
+        "backgroundUrl": "https://greenappdev.github.io/garbanzo/ad_promo_2.png",
+        "videoUrl": "",
+        "priority": 1
     }
 ]
